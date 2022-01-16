@@ -1,0 +1,4 @@
+"STARTUP.obj",
+"hello.obj" 
+TO "hello" 
+RAMSIZE(256) 
